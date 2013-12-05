@@ -1,4 +1,6 @@
-This is your new Play application
-=====================================
+Bikeshary
+=========
 
-This file will be packaged with your application, when using `play dist`.
+A backend API for serving bikesharing system data, written in Scala using the Play Framework.
+
+Currently the API fetches data for Ecobici bike sharing system from api.citibik.es
